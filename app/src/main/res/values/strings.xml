@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Atlas Oftalmologia Allergan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="sec_1_a">Anatomía externa del ojo</string>
+    <string name="sec_1_b">Anatomía interna del ojo</string>
+    <string name="sec_2">Conjuntiva</string>
+    <string name="sec_3">Aparato lacrimal</string>
+    <string name="sec_4">Las lágrimas</string>
+    <string name="sec_5">Cuerpo ciliar y humor acuoso</string>
+    <string name="sec_6">Ojo seco: fisiopatología</string>
+    <string name="sec_7">Ojo seco: grados</string>
+    <string name="sec_8_a">Glaucoma primario de ángulo abierto: fisiopatología</string>
+    <string name="sec_8_b">Glaucoma primario de ángulo abierto: Mecanismo de acción</string>
+    <string name="sec_8_c">Glaucoma primario de ángulo abierto: Pacientes</string>
+    <string name="sec_9">Glaucoma primario de ángulo cerrado: fisiopatología</string>
+    <string name="sec_10">Glaucoma primario: Afectación del nervio óptico</string>
+    <string name="sec_11">Conjuntivitis alérgica: fisiopatología</string>
+    <string name="sec_12">Conjuntivitis alérgica: causas</string>
+    <string name="sec_13_a">Conjuntivitis alérgica: clasificación</string>
+    <string name="sec_13_b">Conjuntivitis alérgica</string>
+    <string name="sec_14">Conjuntivitis bacteriana</string>
+    <string name="sec_15">Algoritmo</string>
+    <string name="sec_16">Videos</string>
+    <string name="sec_17">Referencias</string>
+    
+    <string-array name="menu">
+        <item>El ojo</item>
+        <item>La conjuntiva</item>
+        <item>Aparato lagrimal</item>
+        <item>Las lágrimas</item>
+        <item>El cuerpo ciliar</item>
+        <item>Ojo seco</item>
+        <item>  • Fisiopatología</item>
+        <item>  • Grados</item>
+        <item>Glaucoma primario</item>
+        <item>  • de ángulo abierto</item>
+        <item>  • de ángulo cerrado</item>
+        <item>  • Afectación del nervio óptico</item>
+        <item>Conjuntivitis alérgica</item>
+        <item>  • Fisiopatología</item>
+        <item>  • Causas</item>
+        <item>  • Clasificación</item>
+        <item>Conjuntivitis bacteriana</item>
+        <item>Algoritmo</item>
+        <item>Videos</item>
+        <item>Información para prescribir</item>
+        <item>Referencias</item>
+    </string-array>
+    <string name="title_activity_conjuntiva">La conjuntiva</string>
+    <string name="title_activity_ojo">El ojo</string>
+    <string name="title_activity_alacrimal">Aparato lacrimal</string>
+    <string name="title_activity_lagrimas">Lagrimas</string>
+    <string name="title_activity_cuerpociliar">El cuerpo ciliar</string>
+    <string name="title_activity_ojosec">Ojo seco</string>
+    <string name="title_activity_glaucomap">Glaucoma primario</string>
+    <string name="title_activity_conjuntivitisa">Conjuntivitis alérgica</string>
+    <string name="title_activity_conjuntivitisb">Conjuntivitis bacteriana</string>
+    <string name="title_activity_algoritmo">Algoritmo</string>
+    <string name="title_activity_videos">Videos</string>
+    <string name="title_activity_referencias">Referencias</string>
+
+</resources>
